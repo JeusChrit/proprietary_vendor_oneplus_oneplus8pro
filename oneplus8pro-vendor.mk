@@ -78,12 +78,12 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus8pro/proprietary/odm/etc/sensor/config/kona_qrd_lsm6dso.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_lsm6dso.json \
     vendor/oneplus/oneplus8pro/proprietary/odm/etc/sensor/config/kona_qrd_mmc5603x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_mmc5603x_0.json \
     vendor/oneplus/oneplus8pro/proprietary/odm/etc/sensor/config/kona_qrd_stk2232_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_stk2232_0.json \
-    vendor/oneplus/oneplus8pro/proprietary/odm/etc/sensor/config/kona_qrd_sx9324_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_sx9324_0.json \
-    vendor/oneplus/oneplus8pro/proprietary/odm/etc/sensor/config/kona_qrd_sx9324up_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_sx9324up_0.json \
     vendor/oneplus/oneplus8pro/proprietary/odm/etc/sensor/config/kona_qrd_sx933x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_sx933x_0.json \
     vendor/oneplus/oneplus8pro/proprietary/odm/etc/sensor/config/kona_qrd_tcs3408.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_tcs3408.json \
     vendor/oneplus/oneplus8pro/proprietary/odm/etc/sensor/config/kona_qrd_tcs3707.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_qrd_tcs3707.json \
     vendor/oneplus/oneplus8pro/proprietary/odm/etc/sensor/config/kona_stk3a6x_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_stk3a6x_0.json \
+    vendor/oneplus/oneplus8pro/proprietary/odm/etc/sensor/config/kona_sx9324_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_sx9324_0.json \
+    vendor/oneplus/oneplus8pro/proprietary/odm/etc/sensor/config/kona_sx9324up_0.json:$(TARGET_COPY_OUT_ODM)/etc/sensor/config/kona_sx9324up_0.json \
     vendor/oneplus/oneplus8pro/proprietary/odm/etc/wifi/bdwlan.elf:$(TARGET_COPY_OUT_ODM)/etc/wifi/bdwlan.elf \
     vendor/oneplus/oneplus8pro/proprietary/odm/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_ODM)/firmware/tfa98xx.cnt \
     vendor/oneplus/oneplus8pro/proprietary/odm/lib64/camera/com.qti.sensormodule.semco_imx586.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/com.qti.sensormodule.semco_imx586.bin \
